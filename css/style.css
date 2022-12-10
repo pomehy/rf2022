@@ -997,7 +997,7 @@ button,
 
 .custom-input .custom-input__bg-wrapper,
 .custom-textarea .custom-input__bg-wrapper {
-  color: #E1E3E6;
+  color: #e1e3e6;
 }
 
 .custom-input .custom-input__bg,
@@ -1019,7 +1019,7 @@ button,
 
 .custom-input .custom-textarea__bg-wrapper,
 .custom-textarea .custom-textarea__bg-wrapper {
-  color: #E1E3E6;
+  color: #e1e3e6;
 }
 
 .custom-input .custom-textarea__bg,
@@ -1049,7 +1049,7 @@ button,
   -ms-flex-align: center;
   align-items: center;
   width: 100%;
-  color: #E1E3E6;
+  color: #e1e3e6;
 }
 
 .custom-input label input,
@@ -1173,7 +1173,7 @@ button,
 .custom-input.is-invalid .custom-textarea__bg-wrapper,
 .custom-textarea.is-invalid .custom-input__bg-wrapper,
 .custom-textarea.is-invalid .custom-textarea__bg-wrapper {
-  color: #FF3985;
+  color: #ff3985;
 }
 
 .custom-input.is-invalid input:focus + .custom-input__bg-wrapper,
@@ -1184,7 +1184,7 @@ button,
 .custom-textarea.is-invalid input:focus + .custom-textarea__bg-wrapper,
 .custom-textarea.is-invalid input:hover + .custom-input__bg-wrapper,
 .custom-textarea.is-invalid input:hover + .custom-textarea__bg-wrapper {
-  color: #FF3985;
+  color: #ff3985;
 }
 
 .custom-toggle {
@@ -1204,7 +1204,7 @@ button,
   bottom: -1.40625rem;
   left: 3.90625rem;
   font-size: 0.78125rem;
-  color: #FF3985;
+  color: #ff3985;
   opacity: 0;
   -webkit-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
@@ -1281,7 +1281,7 @@ button,
 }
 
 .custom-toggle.is-invalid .custom-toggle__icon {
-  color: #FF3985;
+  color: #ff3985;
 }
 
 .custom-toggle.is-invalid .custom-toggle__error {
@@ -1302,8 +1302,8 @@ button,
 
 .special {
   color: #ffffff;
-  background-color: #0077FF;
-  border: 0.23438rem solid #0077FF;
+  background-color: #0077ff;
+  border: 0.23438rem solid #0077ff;
 }
 
 .contacts-form {
@@ -1344,7 +1344,7 @@ button,
 .contacts-form__content {
   position: relative;
   padding: 7.42188rem 7.8125rem;
-  background-color: #0077FF;
+  background-color: #0077ff;
   border-radius: 3.20313rem;
   color: #ffffff;
 }
@@ -1514,7 +1514,7 @@ button,
   padding-left: 7.8125rem;
   max-width: 46.32813rem;
   background-color: #ffffff;
-  border: 0.23438rem solid #EDEEF0;
+  border: 0.23438rem solid #edeef0;
   border-radius: 3.20313rem;
 }
 
@@ -1841,7 +1841,7 @@ button,
     gap: 0;
     margin-top: 12.5rem;
     padding: 15.625rem 5rem 0;
-    background-color: #0077FF;
+    background-color: #0077ff;
     border-top-left-radius: 12.8125rem;
     border-top-right-radius: 12.8125rem;
   }
@@ -1870,7 +1870,7 @@ button,
     padding-right: 5rem;
     padding-left: 5rem;
     padding-bottom: 14.6875rem;
-    background-color: #0077FF;
+    background-color: #0077ff;
     border-bottom-left-radius: 12.8125rem;
     border-bottom-right-radius: 12.8125rem;
   }
@@ -1965,7 +1965,7 @@ button,
     padding-left: 9.0625rem;
     max-width: 100%;
     text-align: center;
-    border: 0.9375rem solid #EDEEF0;
+    border: 0.9375rem solid #edeef0;
     border-radius: 12.8125rem;
   }
 
