@@ -195,7 +195,7 @@
     </div>
     <div class="wrapper">
       <header class="header" data-header>
-        <div class="container"><a class="header__logo" href="https://rustore.ru" aria-label="Переход на главную">
+        <div class="container"><a class="header__logo" href="https://rustore.ru" aria-label="Переход на главную" data-fix-block>
             <svg class="logo" width="162" height="142" aria-hidden="true">
               <use xlink:href="#logo-color"></use>
             </svg></a><a class="header__button button" href="https://rustore.ru/instruction.html"><span class="button__text">Скачать <span class="is-hidden">RuStore</span></span>
@@ -226,7 +226,7 @@
               <div class="contacts-form__content" data-validate>
                 <p class="contacts-form__subtitle">Сделаем RuStore ещё&nbsp;лучше</p>
                 <p class="contacts-form__description">Мы&nbsp;команда RuStore и&nbsp;каждый день мы&nbsp;работаем над улучшением нашего продукта. Оставляйте ваши контакты и&nbsp;участвуйте в&nbsp;исследованиях, чтобы помочь сделать RuStore еще лучше!</p>
-                <form action="#">
+                <form action="send.php" method="POST" autocomplete="off">
                   <div class="contacts-form__inner">
                     <div class="custom-input contacts-form__input-name" data-validate-type="text">
                       <label>
