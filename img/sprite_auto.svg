@@ -109,7 +109,11 @@
 </symbol><symbol id="icon-checkbox-bg" viewBox="0 0 30 30">
 <rect x="0.5" y="0.5" width="29" height="29" rx="11.5" fill="#ffffff"/>
 <rect x="0.5" y="0.5" width="29" height="29" rx="11.5" stroke="currentColor"/>
-</symbol><symbol id="icon-close" viewBox="0 0 20 20"><path d="M.293 18.291a1 1 0 101.414 1.414L10 11.413l8.292 8.292a1 1 0 101.414-1.414l-8.292-8.292 8.292-8.292A1 1 0 1018.291.293L9.999 8.585 1.707.293A1 1 0 10.293 1.707L8.585 10 .293 18.291z"/></symbol><symbol id="icon-starlight" viewBox="0 0 75 75">
+</symbol><symbol id="icon-close" viewBox="0 0 20 20"><path d="M.293 18.291a1 1 0 101.414 1.414L10 11.413l8.292 8.292a1 1 0 101.414-1.414l-8.292-8.292 8.292-8.292A1 1 0 1018.291.293L9.999 8.585 1.707.293A1 1 0 10.293 1.707L8.585 10 .293 18.291z"/></symbol><symbol id="icon-starlight-big" viewBox="0 0 124 124">
+<path d="M61.9852 0V124" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M124 61.9985H0" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M20.1312 61.9987C43.251 61.9987 62.0012 43.2485 62.0012 20.1287C62.0012 43.2485 80.7513 61.9987 103.871 61.9987C80.7513 61.9987 62.0012 80.7489 62.0012 103.869C62.0012 80.7489 43.251 61.9987 20.1312 61.9987Z" fill="white" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
+</symbol><symbol id="icon-starlight" viewBox="0 0 75 75">
 <path d="M37.1906 0.601562V75" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
 <path d="M74.3984 37.8H0" stroke="black" stroke-width="3" stroke-miterlimit="10"/>
 <path d="M12.0794 37.7999C25.951 37.7999 37.2008 26.55 37.2008 12.6785C37.2008 26.55 48.4507 37.7999 62.3223 37.7999C48.4507 37.7999 37.2008 49.0498 37.2008 62.9214C37.2008 49.0498 25.951 37.7999 12.0794 37.7999Z" fill="white" stroke="black" stroke-width="3" stroke-miterlimit="10"/>

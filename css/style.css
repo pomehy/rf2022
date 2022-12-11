@@ -1512,15 +1512,16 @@ button,
   padding-right: 7.8125rem;
   padding-bottom: 5.9375rem;
   padding-left: 7.8125rem;
-  max-width: 46.32813rem;
+  max-width: 46.40625rem;
+  left: 0.11719rem;
   background-color: #ffffff;
   border: 0.23438rem solid #edeef0;
   border-radius: 3.20313rem;
 }
 
-.about-item:last-of-type {
+.about-item:nth-of-type(2n) {
   position: relative;
-  left: -0.15625rem;
+  left: -0.11719rem;
 }
 
 .about-item__title-img {
